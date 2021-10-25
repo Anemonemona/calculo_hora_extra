@@ -1,0 +1,1 @@
+Programa desenvolvido em C# e Windows Forms para calculo de salário e hora extra.
